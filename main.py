@@ -1,3 +1,5 @@
+print("Welcome to MyFirstProject!")
 name = input("Enter your name:")
-print("Hello", name)
+print(f"Hello, {name}!")
 print("Welcome to Coding")
+print("Lets Learn Git and Github")
